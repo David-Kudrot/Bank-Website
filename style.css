@@ -1,0 +1,73 @@
+.container{
+    margin-top: 20vh;
+}
+
+.login_part{
+    margin-top: 20vh !important;
+    width: 100vh;
+    margin: auto;
+    display: block;
+}
+
+#login_form{
+    border: 1px solid darkgreen;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 5px 5px 20px 5px black;
+}
+
+#main-part{
+    display: none;
+    margin: auto;
+}
+
+.balanceShow{
+    justify-content:space-between;
+}
+
+.col-md-3{
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 0 2rem 0 2rem;
+    font-size: 3rem;
+    border-radius: 0.5rem;
+}
+
+.balance-1{
+    background-color: rgb(32, 54, 54);
+    color: white;
+}
+.balance-2{
+    background-color: rgb(177, 30, 30);
+    color: white;
+}
+.balance-3{
+    background-color: rgb(7, 75, 75);
+    color: white;
+}
+
+
+.bal{
+    border: 1px solid black;
+    margin: 2rem 2rem 0 2rem;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    background-color: rgb(19, 41, 51);
+    color: white;
+    box-shadow: 2px 2px 20px 5px blue;
+    font-size: 2.5rem;
+}
+
+.add-draw{
+    justify-content: space-between;
+}
+
+/* .bal input{
+    background-color: rgb(26, 48, 56);
+    box-shadow: 2px 2px 20px 5px rgb(33, 196, 28);
+    box-shadow: inset 2px 2px 20px 5px rgb(33, 196, 28);
+}
+.bal input:focus{
+    background-color: rgb(26, 48, 56);
+    box-shadow: inset 5px 5px 20px 5px red;
+} */
